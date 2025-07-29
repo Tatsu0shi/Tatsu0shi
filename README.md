@@ -8,10 +8,10 @@
 <p align="center">
   <em>
     Hello to everyone,</b> I'm a student from <a href="https://usm.cl"> <b>Federico Santa Maria Technical University</b></a>. <br>
-    Currently a Junior, learning about Machine Learning, <b>OOP</b> and <b>Cyber Security</b>. <br>Traning everyday about different's forms to <b>improve</b> and make proyects <b>betters</b>.
+    Currently a Junior, learning about Machine Learning, <b>OOP</b> and <b>Cyber Security</b>. <br>Tranin daily in different ways to <b>improve</b> and <b>optimize</b> proyects.
   </em> 
   <br>
- <b><i>Hoping to learn every day step by step</i></b>
+ <b><i>I hope to learn step by step every day</i></b>
 </p>
 
 <img align="right" width=300px alt="moon" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGw0NWxpOHRpbmI5dmg2dTNwNDNlaW9yMjQwY2lkZ2pnanNjbWg0ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3GtGJYx1uPZM4/giphy.gif" />
