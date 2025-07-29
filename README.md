@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Eduardo Gallardo<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Computer engineering student</h3>
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/egallardog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
  <a href = "mailto: egallardog@usm.cl"><img align="center" src="https://simpleicons.org/icons/mailgun.svg" height="30" width="40" /></a>
 </p>
 
