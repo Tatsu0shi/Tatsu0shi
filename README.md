@@ -8,7 +8,7 @@
 <p align="center">
   <em>
     Hello to everyone,</b> I'm a student from <a href="https://usm.cl"> <b>Federico Santa Maria Technical University</b></a>. <br>
-    Currently a Junior, learning about Machine Learning, <b>OOP</b> and <b>Cyber Security</b>. <br>Tranin daily in different ways to <b>improve</b> and <b>optimize</b> proyects.
+    Currently a Junior developer, learning about Machine Learning, <b>OOP</b> and <b>Cyber Security</b>. <br>Tranin daily in different ways to <b>improve</b> and <b>optimize</b> proyects.
   </em> 
   <br>
  <b><i>I hope to learn step by step every day</i></b>
